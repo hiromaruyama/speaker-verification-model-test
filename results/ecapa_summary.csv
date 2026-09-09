@@ -1,0 +1,4 @@
+window_seconds,exploratory_threshold,clean_window_count,clean_accept_rate,music_window_count,music_false_accept_rate,balanced_accuracy,mixed_window_count,mixed_accept_rate
+1,0.22,190,0.936842,239,0.000000,0.968421,263,0.589354
+1.5,0.14,126,1.000000,158,0.000000,1.000000,174,0.833333
+2,0.15,94,1.000000,119,0.000000,1.000000,129,0.868217
