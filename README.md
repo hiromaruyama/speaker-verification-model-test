@@ -1,5 +1,5 @@
-# speaker-verification-model-test
-Interned at Palkie Talkie; Evaluated speaker verifcation model called ECAPA TDNN for integration.
+# Speaker-verification-model-test:
+Interned at Palkie Talkie; Evaluated speaker verification model called ECAPA-TDNN for integration.
 
 ## Context: 
 Over the summer, I interned for PalkieTalkie, an AI-powered English tutoring app. The biggest challenge I faced was filtering out unwanted speech, background noise during AI-live conversations because AI was sometimes oversensitive and detected nearby speech that was not from an actual user. 
